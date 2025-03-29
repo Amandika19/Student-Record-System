@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+
+    <!-- Flame shape in red -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M60,30 C60,30 65,20 70,25 C75,30 75,35 70,40 C65,45 60,40 60,30"/>
+
+    <!-- UCSI text in black -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M80,35 L160,35 L160,45 L80,45 Z"/>
+
+    <!-- University text in black -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M80,55 L160,55 L160,65 L80,65 Z"/>
+
+</vector> 
